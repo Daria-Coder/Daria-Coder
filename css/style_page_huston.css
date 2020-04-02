@@ -1,0 +1,49 @@
+body {
+    padding: 0 70px;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #222222;
+  }
+
+
+  .leftimg {
+   float:left; 
+   margin: 10px 10px 10px 0; 
+  }
+  .rightimg  {
+   float: right; 
+   margin: 10px 10px 10px 0; 
+  }
+
+h1 {
+    font-size: 32px;
+    font-family: "Arial", sans-serif;
+  }
+
+h4 {
+    font-size: 24px;
+    font-family: "Arial", sans-serif;
+  }
+p { size: 22px;
+    text-justify: auto;
+}
+
+table {
+    border-top: 2px solid rgba(252, 239, 239, 0.582); 
+}
+
+td {
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+th {
+    border: 1px solid rgba(241, 237, 237, 0.479);
+}
+
+figure {
+    font-style: italic;
+}
+
+.example {
+background: rgba(104, 154, 184, 0.473) ; 
+ }
